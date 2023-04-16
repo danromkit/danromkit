@@ -62,5 +62,9 @@
 
 <br/>
 
-![Daniil's GitHub stats](https://github-readme-stats.vercel.app/api?username=danromkit&show_icons=true&theme=radical)
+---
+### ⚙️ GitHub статистика:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danromkit&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Daniil's GitHub stats](https://github-readme-stats.vercel.app/api?username=danromkit&show_icons=true&theme=merko)
+---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=danromkit)
