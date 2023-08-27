@@ -1,20 +1,3 @@
-# Привет, меня зовут Даниил!
-
----
-
-### Обо мне:
-
-Я начинающий Data Scientist<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с поступления в вуз, где я обучаюсь и по сей день!
-
-- :telescope: Изучаю DL и ML!
-
-- :zap: Хочу освоить профессию Data Scientist и найти работу.
-
-
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Kitaev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DanRomKit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kitaev.dr@gmail.com)
-
----
-
 ## My Skill Set  
 <table><tr><td valign="top" width="25%">
 
@@ -48,6 +31,10 @@
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="50"/></a> 
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="50"/></a>
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="pandas" height="50"/></a>
+<a href="https://mlflow.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" alt="mlflow" height="50" width="150"/></a>
+<a href="https://optuna.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" alt="optuna" height="50"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" height="50"/></a>
+
 
 </div>
 
