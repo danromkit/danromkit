@@ -1,3 +1,5 @@
+
+:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Kitaev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DanRomKit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kitaev.dr@gmail.com)
 ## My Skill Set  
 <table><tr><td valign="top" width="25%">
 
